@@ -1,0 +1,1 @@
+An educational web app focused on classic backtracking problems. Features include interactive problem solving, code compilation, random problem generation, and detailed explanations — all built by a collaborative student team.
